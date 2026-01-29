@@ -1,0 +1,57 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Build
+target/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Maven
+.m2/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+*.gradle
+
+# Package Files
+*.rar
+*.7z
+*.deb
+*.dmg
+*.exe
+*.msi
+
+# OS
+.DS_Store
+Thumbs.db
+._.DS_Store
+
+# IDE temp
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
